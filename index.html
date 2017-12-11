@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Search Dynamics NAV Versions</title>
+    <style>
+      body {
+        margin: 1em auto;
+        max-width: 40em;
+        padding: 0 .42em;
+        font: 1.0em/1.42 sans-serif;
+      }
+      
+      h1,
+      h2,
+      h3 {
+        line-height: 1.2;
+      }
+    
+      @media print {
+        body {
+          max-width: none
+        }
+      }
+    </style>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+
+    
+<div id="users">
+  <input class="search" placeholder="Search" />
+  <table>
+    <thead>
+      <tr>
+        <th>Version</th>
+        <th>CU</th>
+        <th>FileVersion</th>
+        <th>DatabaseVersion</th>
+        <th>Info URL</th>
+        <th>Download URL</th>
+      </tr>
+    </thead>
+      <tbody class="list">
+    </tbody>
+  </table>
+
+</div>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js"></script>
+    <script src="js/index.js"></script>
+  </body>
+</html>
