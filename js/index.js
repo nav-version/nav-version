@@ -81,7 +81,7 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/4024642",
   cu: "CU7",
   fileversion: "10.0.16996",
-  databaseversion: "",
+  databaseversion: "91481",
   download: ""
 });
 
@@ -90,7 +90,7 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/4021396",
   cu: "CU6",
   fileversion: "10.0.16585",
-  databaseversion: "",
+  databaseversion: "91481",
   download: ""
 });
 
@@ -99,7 +99,7 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/4018437",
   cu: "CU5",
   fileversion: "10.0.16177",
-  databaseversion: "",
+  databaseversion: "91481",
   download: ""
 });
 
@@ -108,7 +108,7 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/4014101",
   cu: "CU4",
   fileversion: "10.0.15601",
-  databaseversion: "",
+  databaseversion: "91470",
   download: ""
 });
 
@@ -126,7 +126,7 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/3216190",
   cu: "CU2",
   fileversion: "10.0.15052",
-  databaseversion: "",
+  databaseversion: "91470",
   download: ""
 });
 
@@ -153,7 +153,7 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/4055891",
   cu: "CU26",
   fileversion: "9.0.49575",
-  databaseversion: "",
+  databaseversion: "80214",
   download: ""
 });
 
@@ -162,7 +162,7 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/4052194",
   cu: "CU25",
   fileversion: "9.0.49424",
-  databaseversion: "",
+  databaseversion: "80214",
   download: ""
 });
 
@@ -171,7 +171,7 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/4045670",
   cu: "CU24",
   fileversion: "9.0.49326",
-  databaseversion: "",
+  databaseversion: "80213",
   download: ""
 });
 
@@ -180,7 +180,7 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/4040571",
   cu: "CU23",
   fileversion: "9.0.49146",
-  databaseversion: "",
+  databaseversion: "80212",
   download: ""
 });
 
@@ -189,7 +189,7 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/4037308",
   cu: "CU22",
   fileversion: "9.0.48992",
-  databaseversion: "",
+  databaseversion: "80212",
   download: ""
 });
 
@@ -198,7 +198,7 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/4034491",
   cu: "CU21",
   fileversion: "9.0.48822",
-  databaseversion: "",
+  databaseversion: "80212",
   download: ""
 });
 
@@ -207,7 +207,7 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/4024641",
   cu: "CU20",
   fileversion: "9.0.48628",
-  databaseversion: "",
+  databaseversion: "80212",
   download: ""
 });
 
@@ -216,7 +216,7 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/4021395",
   cu: "CU19",
   fileversion: "9.0.48466",
-  databaseversion: "",
+  databaseversion: "80212",
   download: ""
 });
 
@@ -225,7 +225,7 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/4018438",
   cu: "CU18",
   fileversion: "9.0.48316",
-  databaseversion: "",
+  databaseversion: "80212",
   download: ""
 });
 
@@ -234,7 +234,7 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/4014100",
   cu: "CU17",
   fileversion: "9.0.48067",
-  databaseversion: "",
+  databaseversion: "80212",
   download: ""
 });
 
@@ -243,7 +243,7 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/4011762",
   cu: "CU16",
   fileversion: "9.0.47864",
-  databaseversion: "",
+  databaseversion: "80212",
   download: ""
 });
 
@@ -252,7 +252,7 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/3216191",
   cu: "CU15",
   fileversion: "9.0.47838",
-  databaseversion: "",
+  databaseversion: "80212",
   download: ""
 });
 
