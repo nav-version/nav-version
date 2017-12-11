@@ -134,7 +134,7 @@ versionList.add({
   version: "2017",
   info: "https://mbs.microsoft.com/partnersource/northamerica/deployment/downloads/product-releases/msdnav2017download",
   cu: "RTM",
-  fileversion: "10.0.91470",
+  fileversion: "10.0.13682",
   databaseversion: "91470",
   download: "https://mbs.microsoft.com/partnersource/northamerica/deployment/downloads/product-releases/msdnav2017download"
 });
