@@ -14,12 +14,21 @@ var options = {
 
 var versionList = new List('users', options);
 versionList.add({
+  version: "2018",
+  info: "https://mbs.microsoft.com/partnersource/global/deployment/downloads/product-releases/msdnav2018download",
+  cu: "RTM",
+  fileversion: "11.0.19394",
+  databaseversion: "100550",
+  download: "https://mbs.microsoft.com/partnersource/global/deployment/downloads/product-releases/msdnav2018download"
+});
+
+versionList.add({
   version: "2017",
   info: "https://support.microsoft.com/en-us/help/4055892",
   cu: "CU13",
   fileversion: "10.0.19421",
-  databaseversion: "",
-  download: ""
+  databaseversion: "91485",
+  download: "https://www.microsoft.com/en-us/download/details.aspx?id=56279"
 });
 
 versionList.add({
@@ -27,8 +36,8 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/4052195",
   cu: "CU12",
   fileversion: "10.0.18976",
-  databaseversion: "",
-  download: ""
+  databaseversion: "91485",
+  download: "https://www.microsoft.com/en-us/download/details.aspx?id=56146"
 });
 
 versionList.add({
@@ -36,8 +45,8 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/4045671",
   cu: "CU11",
   fileversion: "10.0.18609",
-  databaseversion: "",
-  download: ""
+  databaseversion: "91484",
+  download: "https://www.microsoft.com/en-us/download/details.aspx?id=56038"
 });
 
 versionList.add({
@@ -45,8 +54,8 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/4040570",
   cu: "CU10",
   fileversion: "10.0.18197",
-  databaseversion: "",
-  download: ""
+  databaseversion: "91483",
+  download: "https://www.microsoft.com/en-US/download/details.aspx?id=55797"
 });
 
 versionList.add({
@@ -54,8 +63,8 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/4037309",
   cu: "CU9",
   fileversion: "10.0.17972",
-  databaseversion: "",
-  download: ""
+  databaseversion: "91483",
+  download: "https://www.microsoft.com/en-us/download/details.aspx?id=55749"
 });
 
 versionList.add({
@@ -132,11 +141,11 @@ versionList.add({
 
 versionList.add({
   version: "2017",
-  info: "https://mbs.microsoft.com/partnersource/northamerica/deployment/downloads/product-releases/msdnav2017download",
+  info: "https://mbs.microsoft.com/partnersource/global/deployment/downloads/product-releases/msdnav2017download",
   cu: "RTM",
   fileversion: "10.0.13682",
   databaseversion: "91470",
-  download: "https://mbs.microsoft.com/partnersource/northamerica/deployment/downloads/product-releases/msdnav2017download"
+  download: "https://mbs.microsoft.com/partnersource/global/deployment/downloads/product-releases/msdnav2017download"
 });
   
 versionList.add({
