@@ -387,8 +387,8 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/4055890",
   cu: "CU38",
   fileversion: "8.0.49576",
-  databaseversion: "",
-  download: ""
+  databaseversion: "71063",
+  download: "https://www.microsoft.com/en-us/download/details.aspx?id=56274"
 });
 
 versionList.add({
@@ -396,8 +396,8 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/4052193",
   cu: "CU37",
   fileversion: "8.0.49425",
-  databaseversion: "",
-  download: ""
+  databaseversion: "71063",
+  download: "https://www.microsoft.com/en-us/download/details.aspx?id=56148"
 });
 
 versionList.add({
@@ -405,8 +405,8 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/4045669",
   cu: "CU36",
   fileversion: "8.0.49321",
-  databaseversion: "",
-  download: ""
+  databaseversion: "71063",
+  download: "https://www.microsoft.com/en-us/download/details.aspx?id=56036"
 });
 
 versionList.add({
@@ -414,8 +414,8 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/4040569",
   cu: "CU35",
   fileversion: "8.0.49144",
-  databaseversion: "",
-  download: ""
+  databaseversion: "71063",
+  download: "https://www.microsoft.com/en-us/download/details.aspx?id=55796"
 });
 
 versionList.add({
@@ -423,8 +423,8 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/4037307",
   cu: "CU34",
   fileversion: "8.0.49000",
-  databaseversion: "",
-  download: ""
+  databaseversion: "71063",
+  download: "https://www.microsoft.com/en-us/download/details.aspx?id=55717"
 });
 
 versionList.add({
@@ -432,8 +432,8 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/4034490",
   cu: "CU33",
   fileversion: "8.0.48838",
-  databaseversion: "",
-  download: ""
+  databaseversion: "71063",
+  download: "https://www.microsoft.com/en-us/download/details.aspx?id=55578"
 });
 
 versionList.add({
@@ -441,8 +441,8 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/4024640",
   cu: "CU32",
   fileversion: "8.0.48614",
-  databaseversion: "",
-  download: ""
+  databaseversion: "71063",
+  download: "https://www.microsoft.com/en-us/download/details.aspx?id=55275"
 });
 
 versionList.add({
@@ -450,8 +450,8 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/4021394",
   cu: "CU31",
   fileversion: "8.0.48467",
-  databaseversion: "",
-  download: ""
+  databaseversion: "71063",
+  download: "https://www.microsoft.com/en-us/download/details.aspx?id=55181"
 });
 
 versionList.add({
@@ -459,8 +459,8 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/4018439",
   cu: "CU30",
   fileversion: "8.0.48308",
-  databaseversion: "",
-  download: ""
+  databaseversion: "71063",
+  download: "https://www.microsoft.com/en-us/download/details.aspx?id=55036"
 });
 
 versionList.add({
@@ -468,8 +468,8 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/4014099",
   cu: "CU29",
   fileversion: "8.0.48062",
-  databaseversion: "",
-  download: ""
+  databaseversion: "71063",
+  download: "https://www.microsoft.com/en-us/download/details.aspx?id=54801"
 });
 
 versionList.add({
@@ -477,8 +477,8 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/4011764",
   cu: "CU28",
   fileversion: "8.0.47871",
-  databaseversion: "",
-  download: ""
+  databaseversion: "71063",
+  download: "https://www.microsoft.com/en-us/download/details.aspx?id=54695"
 });
 
 versionList.add({
@@ -486,8 +486,8 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/3216192",
   cu: "CU27",
   fileversion: "8.0.47665",
-  databaseversion: "",
-  download: ""
+  databaseversion: "71063",
+  download: "https://www.microsoft.com/en-us/download/details.aspx?id=54586"
 });
 
 versionList.add({
@@ -495,8 +495,8 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/3209073",
   cu: "CU26",
   fileversion: "8.0.47438",
-  databaseversion: "",
-  download: ""
+  databaseversion: "71063",
+  download: "https://www.microsoft.com/en-us/download/details.aspx?id=54314"
 });
 
 versionList.add({
