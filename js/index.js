@@ -15,11 +15,47 @@ var options = {
 var versionList = new List('users', options);
 versionList.add({
   version: "2018",
+  info: "https://support.microsoft.com/en-us/help/4078580",
+  cu: "CU2",
+  fileversion: "11.0.20348",
+  databaseversion: "",
+  download: "https://www.microsoft.com/en-us/download/details.aspx?id=56517"
+});
+
+versionList.add({
+  version: "2018",
+  info: "https://support.microsoft.com/en-us/help/4058601",
+  cu: "CU1",
+  fileversion: "11.0.19846",
+  databaseversion: "",
+  download: "https://www.microsoft.com/en-us/download/details.aspx?id=56419"
+});
+
+versionList.add({
+  version: "2018",
   info: "https://mbs.microsoft.com/partnersource/global/deployment/downloads/product-releases/msdnav2018download",
   cu: "RTM",
   fileversion: "11.0.19394",
   databaseversion: "100550",
   download: "https://mbs.microsoft.com/partnersource/global/deployment/downloads/product-releases/msdnav2018download"
+});
+
+versionList.add({
+  version: "2017",
+  info: "https://support.microsoft.com/en-us/help/4078579",
+  cu: "CU15",
+  fileversion: "10.0.20333",
+  databaseversion: "",
+  download: "https://www.microsoft.com/en-us/download/details.aspx?id=56520"
+});
+
+versionList.add({
+  version: "2017",
+  info: "https://support.microsoft.com/en-us/help/4058600",
+  cu: "CU14",
+  fileversion: "10.0.19831",
+  databaseversion: "",
+  download: "https://www.microsoft.com/en-us/download/details.aspx?id=56411"
 });
 
 versionList.add({
@@ -135,7 +171,7 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/3209071",
   cu: "CU1",
   fileversion: "10.0.14199",
-  databaseversion: "",
+  databaseversion: "91470",
   download: ""
 });
 
@@ -147,7 +183,25 @@ versionList.add({
   databaseversion: "91470",
   download: "https://mbs.microsoft.com/partnersource/global/deployment/downloads/product-releases/msdnav2017download"
 });
-  
+
+versionList.add({
+  version: "2016",
+  info: "https://support.microsoft.com/en-us/help/4055891",
+  cu: "CU28",
+  fileversion: "9.0.49968",
+  databaseversion: "",
+  download: "https://www.microsoft.com/en-us/download/details.aspx?id=56515"
+});
+
+versionList.add({
+  version: "2016",
+  info: "https://support.microsoft.com/en-us/help/4078578",
+  cu: "CU27",
+  fileversion: "9.0.56410",
+  databaseversion: "",
+  download: "https://www.microsoft.com/en-us/download/details.aspx?id=56410"
+});
+
 versionList.add({
   version: "2016",
   info: "https://support.microsoft.com/en-us/help/4055891",
@@ -384,6 +438,24 @@ versionList.add({
 
 versionList.add({
   version: "2015",
+  info: "https://support.microsoft.com/en-us/help/4078577",
+  cu: "CU40",
+  fileversion: "8.0.49576",
+  databaseversion: "",
+  download: "https://www.microsoft.com/en-us/download/details.aspx?id=56516"
+});
+
+versionList.add({
+  version: "2015",
+  info: "https://support.microsoft.com/en-us/help/4058598",
+  cu: "CU39",
+  fileversion: "8.0.49736",
+  databaseversion: "",
+  download: "https://www.microsoft.com/en-us/download/details.aspx?id=56413"
+});
+
+versionList.add({
+  version: "2015",
   info: "https://support.microsoft.com/en-us/help/4055890",
   cu: "CU38",
   fileversion: "8.0.49576",
@@ -594,7 +666,7 @@ versionList.add({
   info: "https://support.microsoft.com/en-us/help/3130292",
   cu: "CU15",
   fileversion: "8.0.44363",
-  databaseversion: "",
+  databaseversion: "71061",
   download: ""
 });
 
@@ -1098,7 +1170,7 @@ versionList.add({
   info: "https://support.microsoft.com/help/2977473",
   cu: "CU9",
   fileversion: "7.1.37221",
-  databaseversion: "",
+  databaseversion: "70730",
   download: ""
 });
 
@@ -1647,7 +1719,7 @@ versionList.add({
   info: "https://support.microsoft.com/help/2872273",
   cu: "CU5",
   fileversion: "7.0.35201",
-  databaseversion: "",
+  databaseversion: "70340",
   download: ""
 });
 
